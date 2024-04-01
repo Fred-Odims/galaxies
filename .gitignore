@@ -1,0 +1,8 @@
+# ignore Milkyway.sh file
+milkyway.sh
+
+# ignore analysis/ folder
+analysis/
+
+# ignore all txt file
+*.txt
